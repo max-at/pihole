@@ -1,2 +1,3 @@
 (\.|^)myuniqa\.at$
 (\.|^)at-config\.sensic\.net$
+(\.|^)mask\.icloud\.com$
