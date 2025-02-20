@@ -1,0 +1,4 @@
+ads-api.tiktok.com
+adtech.yahooinc.com
+weather-analytics-events.apple.com
+advertising.apple.com
